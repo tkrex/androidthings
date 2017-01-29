@@ -6,3 +6,6 @@
 /build
 .DS_Store
 /captures
+
+# oauth credential
+/src/main/res/raw/credentials.json
